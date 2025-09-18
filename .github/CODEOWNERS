@@ -1,0 +1,5 @@
+# Require review from web maintainers on theme files
+/sections/*      @assistmakers/web
+/snippets/*      @assistmakers/web
+/templates/**    @assistmakers/web
+/config/**       @assistmakers/web
